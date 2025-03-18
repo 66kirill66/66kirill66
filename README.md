@@ -17,22 +17,22 @@ I specialize in creating interactive, visually rich, and performance-optimized U
 ## 🚀 My Featured Projects:
 | Project                     | Description                                                                      | Demo Link                      |
 |-----------------------------|----------------------------------------------------------------------------------|---------------------------------|
-| 🌿 **Plant Cell Simulation**    | Interactive biology simulation for learning cell structures and water absorption. | [Watch Demo](YOUR_PLANT_LINK)  |
-| ⚡ **The Electric Circuit**     | Simulation explaining electricity flow, conductivity, and resistance.             | [Watch Demo](YOUR_ELECTRIC_LINK)  |
-| ❤️ **The Circulatory System**  | Particle-based simulation demonstrating blood flow and oxygen transport.          | [Watch Demo](YOUR_CIRCULATORY_LINK) |
-| 🧩 **Smart Beasts (Game)**      | Logic puzzle game with drag-and-drop programming for problem-solving.             | [Watch Demo](YOUR_SMARTBEAST_LINK)  |
+| 🌿 **Plant Cell Simulation**    | Interactive biology simulation for learning cell structures and water absorption. | [Watch Demo](https://youtu.be/9c23e7MQMGo)  |
+| ⚡ **The Electric Circuit**     | Simulation explaining electricity flow, conductivity, and resistance.             | [Watch Demo](https://youtu.be/QZMGsQ7UYks)  |
+| ❤️ **The Circulatory System**  | Particle-based simulation demonstrating blood flow and oxygen transport.          | [Watch Demo](https://youtu.be/3L2xXjwnT8o) |
+| 🧩 **Smart Beasts (Game)**      | Logic puzzle game with drag-and-drop programming for problem-solving.             | [Watch Demo](https://youtu.be/63oiJVwznEI)  |
 
 ---
 
 ## 🛠 Technologies & Tools:
-- Unity 2021.3 LTS
-- C#
-- TextMeshPro
-- WebGL
-- Spine 2D Animation
-- Shader Graph & HLSL
-- AWS & Web3 asset streaming
-- TypeScript API integration
+- C# — main scripting language
+- TextMeshPro — for advanced UI text rendering
+- WebGL Deployment — simulations and games for the web
+- Spine 2D Animation — smooth, professional character animations
+- Shader Graph & Custom Shaders (HLSL) — for advanced visual effects
+- Particle Systems — dynamic visual effects
+- Asset Bundles & Addressables — efficient resource management and dynamic asset streaming
+- API Integration — connecting Unity with external APIs via System.Runtime.InteropServices
 
 ---
 
